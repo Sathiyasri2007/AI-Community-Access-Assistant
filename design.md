@@ -1,4 +1,4 @@
-# Design Document: Voice-First AI Government Scheme Assistance System
+# Design Document: Voice4Schemes – AI Voice Assistant for Government Schemes
 
 ## 1. System Overview
 
@@ -300,5 +300,6 @@ async def check_eligibility():
 - **Azure TTS**: ~₹1,000/month for testing
 - **Twilio**: ~₹1,500/month for toll-free number
 - **Total**: ~₹5,000/month for academic project
+
 
 This design provides a clear, implementable architecture for the voice-first AI government scheme assistance system suitable for academic project submission.
